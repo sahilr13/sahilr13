@@ -18,8 +18,8 @@ I build clean, fast, and scalable web applications with a focus on beautiful UI 
 **Other:** REST APIs, UI/UX, Module Systems
 
 ## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=sahilr13&show_icons=true&theme=transparent)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilr13&theme=transparent)
 
 ## 🌱 Currently Working On
 - A future-proof Laravel restaurant system  
