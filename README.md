@@ -1,7 +1,7 @@
 # Hey, I'm Sahil 👋
 
 **Full-Stack & Mobile Developer (Laravel • Node.js • React • Vue.js • React Native)**  
-I build clean, fast, and scalable web and mobile applications with intuitive user interfaces, reliable backend systems, and thoughtful offline-first architectures.
+I build clean, fast, and scalable web and mobile applications with intuitive user interfaces, reliable backend systems, and thoughtful architectures.
 
 ---
 
