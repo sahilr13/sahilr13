@@ -1,36 +1,52 @@
-# 👋 Hi, I'm Sahil
+#  Hey there, I'm Sahil 👋
 
-**Full-Stack Web Developer (Laravel + Modern Frontend)**  
-I build clean, fast, and scalable web applications with a focus on beautiful UI and reliable backend architecture.
+**Full-Stack & Mobile Developer | React Native • Expo • Laravel • TypeScript**  
+Building high-performance web applications and privacy-focused, offline-first mobile experiences. Passionate about sleek micro-interactions, robust native bridging, and scalable backend architecture.
 
-## 🚀 About Me
-- 💻 Full-stack developer passionate about modern web development  
-- ⚡ Love working with Laravel, React, and TailwindCSS  
-- 📦 Currently building a modular restaurant management system  
-- 🛠 Improving update systems, installers, and backend performance  
-- 🎯 Always learning and shipping new features  
-- 😄 Debugging is my cardio
+---
 
-## 🧰 Tech I Use
-**Backend:** Laravel, PHP, MySQL  
-**Frontend:** React, Blade, TailwindCSS  
-**Tools:** Git, VS Code, Composer, NPM  
-**Other:** REST APIs, UI/UX, Module Systems
+### 🚀 What I'm Up To
+- 📱 **Building [Recurly](https://github.com/sahilr13):** A 100% on-device, privacy-first subscription and financial tracker built with React Native (Expo SDK), custom Kotlin native modules for SMS transaction parsing, and local vault state management.
+- ⚡ **Developing Scalable Web Engines:** Architecting modular Laravel management systems, automated module installers, and high-throughput POS interfaces.
+- 🛠 **Bridging Native & Cross-Platform:** Writing custom Android native modules (Kotlin) to integrate modern hardware and system APIs with React Native.
+- 🎨 **Crafting Thoughtful UI/UX:** obsessing over fluid layouts with NativeWind, Tailwind CSS, and gesture-driven animations.
 
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=sahilr13&show_icons=true&theme=transparent)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilr13&theme=transparent)
+---
 
-## 🌱 Currently Working On
-- A future-proof Laravel restaurant system  
-- A module installer + system updater  
-- Clean POS UI and improved user workflows  
-- Data export & reporting features
+### 🧰 Tech Stack
 
-## 📫 Connect With Me
-Portfolio: your link  
-Twitter: your handle  
-LinkedIn: your profile
+| Domain | Technologies |
+| :--- | :--- |
+| **Mobile** | React Native, Expo, Android Native Modules (Kotlin), NativeWind, Zustand |
+| **Frontend** | React, TypeScript, JavaScript, TailwindCSS, Blade |
+| **Backend & APIs** | Laravel, PHP, RESTful APIs, MySQL, Clerk Auth |
+| **Tooling & Analytics** | EAS Build, PostHog, Git, Vite, Composer, npm |
 
-## 💬 Fun Fact
-I break things just to rebuild them better.
+---
+
+### 🛠 Featured Projects & Engineering Focus
+- **Recurly (Mobile):** Standalone Android financial vault leveraging automated bank SMS parsing, offline-first reconciliation, and zero cloud data leaks.
+- **Modular Laravel Ecosystem:** Dynamic plugin installer, seamless automated self-updaters, and multi-tenant reporting suites.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilr13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sahil's GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilr13&theme=tokyonight&hide_border=true" alt="Sahil's streak stats" height="165" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/YOUR_HANDLE" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+> *"Debugging is just reverse-engineering your own past overconfidence."*
