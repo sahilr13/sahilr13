@@ -1,32 +1,37 @@
-#  Hey there, I'm Sahil 👋
+# Hey, I'm Sahil 👋
 
-**Full-Stack & Mobile Developer | React Native • Expo • Laravel • TypeScript**  
-Building high-performance web applications and privacy-focused, offline-first mobile experiences. Passionate about sleek micro-interactions, robust native bridging, and scalable backend architecture.
+**Full-Stack & Mobile Developer (Laravel • Node.js • React • Vue.js • React Native)**  
+I build clean, fast, and scalable web and mobile applications with intuitive user interfaces, reliable backend systems, and thoughtful offline-first architectures.
 
 ---
 
-### 🚀 What I'm Up To
-- 📱 **Building [Recurly](https://github.com/sahilr13):** A 100% on-device, privacy-first subscription and financial tracker built with React Native (Expo SDK), custom Kotlin native modules for SMS transaction parsing, and local vault state management.
-- ⚡ **Developing Scalable Web Engines:** Architecting modular Laravel management systems, automated module installers, and high-throughput POS interfaces.
-- 🛠 **Bridging Native & Cross-Platform:** Writing custom Android native modules (Kotlin) to integrate modern hardware and system APIs with React Native.
-- 🎨 **Crafting Thoughtful UI/UX:** obsessing over fluid layouts with NativeWind, Tailwind CSS, and gesture-driven animations.
+### 💡 What Inspires Me
+- **User-Centric Privacy & Local-First Design:** Building software where sensitive user data stays firmly on the client device rather than scattered across third-party cloud infrastructure.
+- **Developer Productivity & Fluid UX:** Creating frictionless tools and interfaces—from custom developer dashboards to high-throughput business management platforms.
+- **Architectural Elegance:** Crafting modular, decoupled codebases with clean API design, predictable state management, and reliable database schemas.
+- **Continuous Problem Solving:** Diving deep into unexpected bugs, understanding root causes, and re-architecting systems to make them stronger.
 
 ---
 
 ### 🧰 Tech Stack
 
-| Domain | Technologies |
+| Category | Technologies |
 | :--- | :--- |
-| **Mobile** | React Native, Expo, Android Native Modules (Kotlin), NativeWind, Zustand |
-| **Frontend** | React, TypeScript, JavaScript, TailwindCSS, Blade |
-| **Backend & APIs** | Laravel, PHP, RESTful APIs, MySQL, Clerk Auth |
-| **Tooling & Analytics** | EAS Build, PostHog, Git, Vite, Composer, npm |
+| **Backend & APIs** | Laravel, PHP, Node.js, Express.js, REST APIs, Postman |
+| **Frontend & Mobile** | React, Vue.js, React Native, Expo, TypeScript, JavaScript, TailwindCSS, NativeWind, Blade |
+| **Browser Extensions** | Chrome Extensions (Manifest V3), Content Scripts, Web APIs |
+| **Cloud & Databases** | MySQL, Firebase, Google Cloud Console, Clerk Auth |
+| **Dev Tools & Analytics** | Git, EAS Build, PostHog, Composer, npm, VS Code |
 
 ---
 
-### 🛠 Featured Projects & Engineering Focus
-- **Recurly (Mobile):** Standalone Android financial vault leveraging automated bank SMS parsing, offline-first reconciliation, and zero cloud data leaks.
-- **Modular Laravel Ecosystem:** Dynamic plugin installer, seamless automated self-updaters, and multi-tenant reporting suites.
+### 🛠 Featured Projects
+
+- **Recurly (Mobile):** A 100% on-device subscription and financial management app built with React Native and Expo. Automatically parses bank alerts and statements into real-time spend analytics and upcoming renewal schedules without cloud reliance.
+- **Vitrine (Chrome Extension):** A glassmorphic, hyper-productive new tab dashboard for developers built with Vanilla JS and Manifest V3. Features a customizable, local-first bento grid, live developer news feeds (Hacker News, Dev.to), real-time system monitoring (CPU/RAM), and context-aware search routing across GitHub, MDN, and StackOverflow.
+- **Enterprise Webmail Client *(Proprietary / Under NDA)*:** A fast, secure corporate webmail platform built for internal business communication, featuring advanced thread organization, rich text composition, and seamless integration with workplace tooling.
+- **Real-Time Video Meetings Web App *(Proprietary / Under NDA)*:** A browser-based video conferencing platform (similar to Google Meet) integrated directly into the webmail client, featuring real-time audio/video rooms, screen sharing, and scheduled meeting synchronization.
+- **Modular Restaurant & POS Engine (Web):** A scalable Laravel-based platform featuring dynamic plugin installers, automated system updaters, and an efficient table-to-kitchen POS interface.
 
 ---
 
@@ -39,14 +44,9 @@ Building high-performance web applications and privacy-focused, offline-first mo
 
 ---
 
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/YOUR_HANDLE" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+### 📫 Connect With Me
+Portfolio: [yourportfolio.com](https://yourportfolio.com) • LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com) • Email: [your.email@example.com](mailto:your.email@example.com)
 
 ---
 
-> *"Debugging is just reverse-engineering your own past overconfidence."*
+> *"I break things just to rebuild them better."*
