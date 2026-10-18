@@ -46,7 +46,7 @@ I build modern, high-performance web applications and responsive user interfaces
 ---
 
 ### 📫 Connect With Me
-Portfolio: [yourportfolio.com](https://yourportfolio.com) • LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com) • Email: [your.email@example.com](mailto:your.email@example.com)
+Portfolio: [yourportfolio.com](https://sahilraul-dev.vercel.app/) • LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/sahil-raul-3597242a7/?isSelfProfile=true) • Email: [sahildummy13@gmail.com](mailto:your.email@example.com)
 
 ---
 
